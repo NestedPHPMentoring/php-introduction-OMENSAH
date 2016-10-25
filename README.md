@@ -30,7 +30,7 @@ Use `print_r` and `var_dump` to see variable values and type.
 
 You can notice that all variables are `strings`. You should convers `age` into `integer` and `height` into `double`.
 
-After conversion asign a values to new variables `ageInteger` and `heightDouble`. Use `var_dump` or `print_r` to see how new varibles looks like. 
+After conversion asign a values to new variables `ageInteger` and `heightDouble`. Use `var_dump` or `print_r` to see how new varibles looks like.
 
 
 ### task 003 - Array - most frequent element
@@ -81,7 +81,7 @@ Follow this request with a select field for the 10 cities, with the options crea
 ###Task 10
 
 This PHP exercise has two parts. In the first, you will take the large cities array from Arrays Ex. #7 and transform it into a multi-dimensional array. That will become the data in a table.
-Rewrite the large cities array into a multi-dimensional array called `$multiCity`. 
+Rewrite the large cities array into a multi-dimensional array called `$multiCity`.
 
 The first sub-array will be completely new and include the labels, City, Country, Continent. (These will become the keys in the second half of this exercise.) Each of the succeeding sub-arrays should include those three items, one for each of the cities, for a total of 11 sub-arrays.
 Here's the content for your array: City, Country, Continent; Tokyo, Japan, Asia; Mexico City, Mexico, North America; New York City, USA, North America; Mumbai, India, Asia; Seoul, Korea, Asia; Shanghai, China, Asia; Lagos, Nigeria, Africa; Buenos Aires, Argentina, South America; Cairo, Egypt, Africa; London, UK, Europe.
@@ -101,8 +101,8 @@ PHP includes all the standard arithmetic operators. For this PHP exercise, you w
 
     $x=10;
     $y=7;
-    
-    
+
+
 Write code to print out the following:
 
     10 + 7 = 17
@@ -110,7 +110,7 @@ Write code to print out the following:
     10 * 7 = 70
     10 / 7 = 1.4285714285714
     10 % 7 = 3
-    
+
 Use numbers only in the above variable assignments, not in the echo statements. You will need a third variable as well.
 
 Note: this is intended as a simple, beginning exercise, not using arrays or loops. Some of the solutions in comments include these structures. If you don't understand them, just keep learning, and you will.
